@@ -1,0 +1,23 @@
+RECEIPT
+Date: 2025-10-04T01:02:26
+----------------------------------------
+Items:
+ 1. Milk x2 @ $3.49
+    Subtotal: $6.98  Discount: $0.00  Total: $6.98
+ 2. Bread x1 @ $2.29
+    Subtotal: $2.29  Discount: $0.00  Total: $2.29
+ 3. Eggs x1 @ $4.19
+    Line percent discount: 5%
+    Subtotal: $4.19  Discount: $0.21  Total: $3.98
+----------------------------------------
+Subtotal: $13.46
+Line discounts: -$0.21
+After line discounts: $13.25
+Order discount: -$1.33
+Pre-tax total: $11.92
+Tax (8.25%): $0.98
+Grand total: $12.90
+Cash tendered: $20.00
+Change: $7.10
+----------------------------------------
+Thank you for your purchase!
